@@ -65,3 +65,48 @@
  21  clear
  22  history 
 ```
+## Bundle 2 
+
+### Exercise 2 
+
+```bash 
+1  git log
+2  git diff fe07c9d9bcc530443b13569055aa593d12dc509a 936c68566d577e6490a21da315f58a366b5683ac 
+3  git switch main // changing working branch 
+4  git merge ft/service-redesign 
+5  git merge -X theirs ft/service-redsign
+6  git add . 
+7  git commit -m "Changes from incoming branch accepted "
+8  git status 
+9  git push 
+```
+## Bundle 3 
+
+### Exercise 1
+
+```bash 
+
+```
+## Bundle 3 
+
+### Exercise 2
+
+```bash 
+
+```
+
+## Bundle 4 
+
+### Exercise 1
+
+```bash 
+
+```
+
+## Bundle 4 
+
+### Exercise 2
+
+```bash 
+
+```
