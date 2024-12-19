@@ -105,9 +105,42 @@
 ### Exercise 2
 
 ```bash 
-
+ 1  git checkout ft/faq-page
+ 2  git branch ft/home-page-redesign
+ 3  git checkout ft/home-page-redesign
+ 4  git checkout main 
+ 5  git switch ft/home-page-redesign
+ 6  git rebase main 
+ 7  git add . 
+ 8  git branch 
+ 9  git checkout main 
+ 10  git status 
+ 11  git add . 
+ 12  git commit -m "Read me uodated "
+ 13  git push 
+ 14  git checkout ft/home-page-redesign
+ 15  git rebase main 
+ 16  git status 
+ 17  git add . 
+ 18  git commit -m "Pushing new change to the home page"
+ 19  git push --set-upstream origin ft/home-page-redesign
+ 20  git history 
 ```
 
+## Bundle 4
+
+### Exercise 1
+
+```bash
+
+```
+## Bundle 4
+
+### Exercise 2
+
+```bash
+
+```
 
 
 ## RANDOM AND USEFUL COMMANDS
